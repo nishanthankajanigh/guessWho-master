@@ -1,0 +1,23 @@
+{
+  "name": "guesswho",
+  "version": "1.0.0",
+  "description": "The classic game using array methods",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/guessWho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/guessWho/issues"
+  },
+  "homepage": "https://github.com/Plasnid/guessWho#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
